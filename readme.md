@@ -6,6 +6,8 @@ This project demonstrates how to connect Stripe with a Django backend to manage 
 
 ---
 
+
+
 ## Table of Contents
 
 1. Overview
